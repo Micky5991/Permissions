@@ -6,4 +6,8 @@
     <TargetFrameworks>net9.0;net8.0</TargetFrameworks>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Diagnostics" Version="8.4.0" />
+  </ItemGroup>
+
 </Project>
