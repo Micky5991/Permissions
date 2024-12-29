@@ -1,6 +1,4 @@
-﻿using Permissions.Decision;
-
-namespace Permissions.Contracts;
+﻿namespace Permissions.Decision;
 
 /// <summary>
 /// Main logic evaluator and decider for incoming requests. This instance finally decides if the requested access is granted or not.
